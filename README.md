@@ -1,5 +1,15 @@
 # Flask Stack Simulator startup template
 
+Name: Jecelle Flores
+Section:BSIT WMT 4-2
+Original Starter Repository: https://github.com/Jackson-Soriano/f1-elec4-stack-simulator-starter.git
+
+## Activity Description
+Introductory activity on how Python and Flask connect to an HTML interface
+(with CSS, Bootstrap, JavaScript, and jQuery) through a stack simulator.
+
+---
+
 This is the unfinished repository for a pre-demo reading activity. Read `Flask_PreDemo_Reading_Activity.pdf` first. 
 
 ## Before the demonstration
