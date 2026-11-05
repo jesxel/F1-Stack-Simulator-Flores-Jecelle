@@ -112,4 +112,4 @@ def contact():
 
 if __name__ == '__main__':
     # Local development only. Stop with Ctrl+C.
-    app.run(debug=True)
+    app.run(debug=True, port=5001)
